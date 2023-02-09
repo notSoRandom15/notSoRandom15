@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @notSoRandom15
+- 👋 Hi, I’m @notSoRandom15 (Demetre Barbakadze)
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python + django, data science
 - 💞️ I’m looking to collaborate on ...
